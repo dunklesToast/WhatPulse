@@ -21,7 +21,7 @@ Outputs all the Team Stats or an error, if there is one.
 ```js
 const wp = require('whatpulse');
 async function user(){
-    console.log(await wp.getUser({team: "dunklesToast"}))
+    console.log(await wp.getUser({user: "dunklesToast"}))
 }
 user();
 ```
@@ -31,7 +31,7 @@ Outputs all the User Stats or an error, if there is one.
 ```js
 const wp = require('whatpulse');
 async function pulse(){
-    console.log(await wp.getPulses({team: "dunklesToast"}))
+    console.log(await wp.getPulses({user: "dunklesToast"}))
 }
 pulse();
 ```

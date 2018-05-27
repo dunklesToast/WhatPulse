@@ -1,5 +1,5 @@
 {
-  "name": "WhatPulse",
+  "name": "whatpulse",
   "version": "1.0.0",
   "description": "A WhatPulse API Wrapper for nodeJS",
   "main": "index.js",
@@ -8,5 +8,6 @@
   "private": false,
   "dependencies": {
     "axios": "^0.18.0"
-  }
+  },
+  "repository": "https://github.com/dunklesToast/WhatPulse.git"
 }
