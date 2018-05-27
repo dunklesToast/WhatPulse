@@ -1,0 +1,12 @@
+{
+  "name": "WhatPulse",
+  "version": "1.0.0",
+  "description": "A WhatPulse API Wrapper for nodeJS",
+  "main": "index.js",
+  "author": "Tom Sacher",
+  "license": "MIT",
+  "private": false,
+  "dependencies": {
+    "axios": "^0.18.0"
+  }
+}
