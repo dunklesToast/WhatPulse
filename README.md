@@ -1,4 +1,5 @@
 ## WhatPulse
+[![Known Vulnerabilities](https://snyk.io/test/github/dunklesToast/WhatPulse/badge.svg?targetFile=package.json)](https://snyk.io/test/github/dunklesToast/WhatPulse?targetFile=package.json)
 
 ### Installation
 ```bash
